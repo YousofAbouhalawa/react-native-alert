@@ -3540,7 +3540,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@yousofabouhalawa/react-native-alert@workspace:.":
+"@yousofabouhalawa/react-native-alert@workspace:*, @yousofabouhalawa/react-native-alert@workspace:.":
   version: 0.0.0-use.local
   resolution: "@yousofabouhalawa/react-native-alert@workspace:."
   dependencies:
@@ -10042,6 +10042,7 @@ __metadata:
     "@react-native/metro-config": "npm:0.83.0"
     "@react-native/typescript-config": "npm:0.83.0"
     "@types/react": "npm:^19.2.0"
+    "@yousofabouhalawa/react-native-alert": "workspace:*"
     react: "npm:19.2.0"
     react-native: "npm:0.83.0"
     react-native-builder-bob: "npm:^0.40.13"
