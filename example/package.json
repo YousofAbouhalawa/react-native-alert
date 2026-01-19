@@ -10,7 +10,7 @@
     "build:ios": "react-native build-ios --mode Debug --destination \"platform=iOS Simulator,OS=17.5,name=iPhone 15\""
   },
   "dependencies": {
-    "@yousofabouhalawa/react-native-alert": "workspace:*",
+    "@nasaq/react-native-alert": "workspace:*",
     "react": "19.2.0",
     "react-native": "0.83.0",
     "react-native-safe-area-context": "^5.6.2"
