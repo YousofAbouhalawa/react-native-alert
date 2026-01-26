@@ -3,7 +3,7 @@
     "rootDir": ".",
     "paths": {
       "react-native-alert": ["./src/index"],
-      "@nasaq/react-native-alert": ["./src/index"]
+      "@yousofabouhalawa/react-native-alert": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,

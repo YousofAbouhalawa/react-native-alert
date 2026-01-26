@@ -1,4 +1,4 @@
-# @nasaq/react-native-alert
+# @yousofabouhalawa/react-native-alert
 
 <table>
   <tr>
@@ -16,7 +16,7 @@ Fully native alert dialogs for iOS and Android with a simple imperative API and 
 ## Installation
 
 ```sh
-npm install @nasaq/react-native-alert
+npm install @yousofabouhalawa/react-native-alert
 ```
 
 iOS:
@@ -32,7 +32,7 @@ Expo:
 ## Usage
 
 ```js
-import { Alert } from "@nasaq/react-native-alert";
+import { Alert } from "@yousofabouhalawa/react-native-alert";
 
 Alert.show({
   title: "Hello",
